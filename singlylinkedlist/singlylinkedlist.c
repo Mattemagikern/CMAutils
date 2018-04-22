@@ -8,6 +8,7 @@
  * 	Figure out if there is any way to use templates in C
  * 	It would be nice to be able to return by copy and store by copy
  *	Update version with xmalloc instead o malloc
+ *	Use memcpy to store and return things
  *	Possibly a get() method?
  *	sort, reverse, contains?	
  */
